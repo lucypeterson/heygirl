@@ -34,15 +34,11 @@ myGosling = [
  new Gosling("horizontal", "https://lucypeterson.github.io/heygirl/images/horizontal1.jpg"),
     new Gosling("horizontal", "https://lucypeterson.github.io/heygirl/images/horizontal2.jpg"),
     new Gosling("horizontal", "https://lucypeterson.github.io/heygirl/images/horizontal3.jpg"),
+	new Gosling("horizontal", "https://lucypeterson.github.io/heygirl/images/horizontal4.jpg"),
 
     new Gosling("vertical", "https://lucypeterson.github.io/heygirl/images/vertical1.jpg"),
     new Gosling("vertical", "https://lucypeterson.github.io/heygirl/images/vertical2.jpg"),
-    // new Gosling("vertical", "http://heygirl.io/img/gosling-vert-4.jpg"),
-    // new Gosling("vertical", "http://heygirl.io/img/gosling-vert-5.gif"),
-    // new Gosling("vertical", "http://heygirl.io/img/gosling-vert-6.jpg"),
-    // new Gosling("vertical", "http://heygirl.io/img/gosling-vert-7.jpg"),
-    // new Gosling("vertical", "http://heygirl.io/img/gosling-vert-8.jpg"),
-    // new Gosling("vertical", "http://heygirl.io/img/gosling-vert-9.jpg"),
+    new Gosling("vertical", "https://lucypeterson.github.io/heygirl/images/vertical3.jpg"),
 
     new Gosling("square", "https://lucypeterson.github.io/heygirl/images/square1.jpg"),
     new Gosling("square", "https://lucypeterson.github.io/heygirl/images/square2.jpg")]
