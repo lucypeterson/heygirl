@@ -31,12 +31,12 @@ var getGosling = {
 	}
 },
 myGosling = [
- new Gosling("horizontal", "http://lucypeterson/heygirl.io/images/horizontal1.jpg"),
-    new Gosling("horizontal", "http://lucypeterson/heygirl.io/images/horizontal2.jpg"),
-    new Gosling("horizontal", "http://lucypeterson/heygirl.io/images/horizontal3.jpg"),
+ new Gosling("horizontal", "http://lucypeterson/github.io/images/horizontal1.jpg"),
+    new Gosling("horizontal", "http://lucypeterson/github.io/images/horizontal2.jpg"),
+    new Gosling("horizontal", "http://lucypeterson/github.io/images/horizontal3.jpg"),
 
-    new Gosling("vertical", "http://lucypeterson/heygirl.io/images/vertical1.jpg"),
-    new Gosling("vertical", "http://lucypeterson/heygirl.io/images/vertical2.jpg"),
+    new Gosling("vertical", "http://lucypeterson/github.io/images/vertical1.jpg"),
+    new Gosling("vertical", "http://lucypeterson/github.io/images/vertical2.jpg"),
     // new Gosling("vertical", "http://heygirl.io/img/gosling-vert-4.jpg"),
     // new Gosling("vertical", "http://heygirl.io/img/gosling-vert-5.gif"),
     // new Gosling("vertical", "http://heygirl.io/img/gosling-vert-6.jpg"),
@@ -46,7 +46,6 @@ myGosling = [
 
     new Gosling("square", "http://lucypeterson/heygirl.io/images/square1.jpg"),
     new Gosling("square", "http://lucypeterson/heygirl.io/images/square2.jpg"),
-];
 ! function(i) {
 	getGosling.init(myGosling);
 	for (var g = i.getElementsByTagName("img"), o = g.length, n = 0; o > n; n++) {
