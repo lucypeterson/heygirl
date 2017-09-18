@@ -45,7 +45,7 @@ myGosling = [
     // new Gosling("vertical", "http://heygirl.io/img/gosling-vert-9.jpg"),
 
     new Gosling("square", "http://lucypeterson/heygirl.io/images/square1.jpg"),
-    new Gosling("square", "http://lucypeterson/heygirl.io/images/square2.jpg"),
+    new Gosling("square", "http://lucypeterson/heygirl.io/images/square2.jpg")]
 ! function(i) {
 	getGosling.init(myGosling);
 	for (var g = i.getElementsByTagName("img"), o = g.length, n = 0; o > n; n++) {
